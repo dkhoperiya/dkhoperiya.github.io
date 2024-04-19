@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  docs:
+  src:
     runs-on: ubuntu-latest
 
     steps:
