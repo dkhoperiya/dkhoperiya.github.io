@@ -2,66 +2,75 @@
 home: true
 icon: home
 title: Главная
-heroImage: /assets/image/abstract-shape (2).png
-bgImage: /assets/image/5652242.jpg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+
+heroImage: /assets/image/ozi-doc.svg
+bgImage: /assets/image/Light_03.png
 bgImageStyle:
   background-attachment: fixed
 heroText: FDEI Docs
 tagline: Единая точка входа для описания инженерных решений.
 
 highlights:
+  
   - header: Компонентные решения
     description: Автоматизация критических процессов и библиотеки
-    image: /assets/image/box.svg
-    bgImage: /assets/image/3417733.jpg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    color: white
+    image: /assets/image/ozi-component.svg
+    bgImage: /assets/image/Blue_03.png
     features:
       - title: Daily Reporting 2.0
         icon: file
         details: Отправка отчетности
         link: "/components/daily_reporting/overview"
+        
       - title: CDM/DDS
         icon: table
         details: Формирование отчетности
         link: "/components/cdm_dds/overview"
+        
       - title: Progres Goal
         icon: clipboard-check
         details: Прогресс голов
         link: "/components/progress_goal/overview"
+        
       - title: Event Log
         icon: user
         details: Логирование событий
         link: "/components/event_log/overview"
+        
+      - title: Data Quality
+        icon: user
+        details: Контроль качества данных
+        link: "/components/data_quality/overview"
 
   - header: Операторы Apache Airflow
     description: Типовые классы для LowCode разработки DAG'ов
-    image: /assets/image/features.svg
-    bgImage: /assets/image/3417733.jpg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    image: /assets/image/ozi-operators.svg
+    color: white
+    bgImage: /assets/image/Dark_03.png
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
     features:
       - title: VerticaOperator
         details: Выполнение запросов в Vertica
-        link: https://theme-hope.vuejs.press/guide/markdown/others.html#link-check
+        link: "/operators/vertica_operator/overview"
 
       - title: ClickHouseOperator
         details: Выполнение запросов в ClickHouse
-        link: https://theme-hope.vuejs.press/guide/markdown/hint.html
+        link: "/operators/clikhouse_operator/overview"
 
       - title: ClickHouseToVerticaOperator
         details: Перенос данных из ClickHouse в Vertica
-        link: https://theme-hope.vuejs.press/guide/markdown/alert.html
+        link: "/operators/clikhouse_to_vertica_operator/overview"
 
       - title: S3ToVerticaOperator
         details: Перенос данных из S3 в Vertica
-        link: https://theme-hope.vuejs.press/guide/markdown/tabs.html
+        link: "/operators/s3_to_vertica_operator/overview"
 
       - title: VerticaToS3Operator 
         details: Перенос данных из Vertica в S3
-        link: https://theme-hope.vuejs.press/guide/markdown/code-tabs.html
+        link: "/operators/vertica_to_s3_operator/overview"
 
 copyright: false
 footer: Ozon.FinTech © 2024-2024 All rights reserved.

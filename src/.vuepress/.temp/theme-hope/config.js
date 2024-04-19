@@ -7,6 +7,7 @@ import { defineCatalogInfoGetter } from "/Users/dkhoperiya/my-docs/node_modules/
 import { h } from "vue"
 import { GlobalEncrypt, LocalEncrypt } from "/Users/dkhoperiya/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
 import "/Users/dkhoperiya/my-docs/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import Slide from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-md-enhance/lib/client/SlidePage.js";
 
 import "/Users/dkhoperiya/my-docs/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
@@ -50,6 +51,6 @@ export default defineClientConfig({
   layouts: {
     Layout,
     NotFound,
-
+    Slide,
   }
 });

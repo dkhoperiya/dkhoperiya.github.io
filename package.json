@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.9",
+    "reveal.js": "^5.1.0",
     "sass-loader": "^14.1.0",
     "vue": "^3.4.21",
     "vuepress": "2.0.0-rc.9",

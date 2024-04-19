@@ -13,10 +13,12 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/assets/image/abstract-shape-32.png",
+  logo: "/assets/icon/logo-128.svg",
 
   repoDisplay: false,
   darkmode: "disable",
+
+
 
 
   docsDir: "src",
@@ -58,6 +60,7 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
+      revealJs: true,
       hint: true,
       mark: true,
       alert: true,
@@ -107,7 +110,6 @@ export default hopeTheme({
       //   presets: ["ts", "vue"],
       // },
 
-      // install reveal.js before enabling it
       // revealJs: {
       //   plugins: ["highlight", "math", "search", "notes", "zoom"],
       // },

@@ -12,4 +12,9 @@ export default navbar([
         icon: "gear",
         link: "/guide/",
   },
+  {
+        text: "Демо",
+        icon: "chalkboard-user",
+        link: "/demo/",
+  },
 ]);

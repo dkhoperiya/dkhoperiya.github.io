@@ -1,7 +1,39 @@
 ---
 author: David Khoperiya
-title: Change Log
-pageview: false
+title: Changelog
 date: 2024-04-18
 editLink: false
+pageview: false
+
+copyright: false
+footer: Ozon.FinTech © 2024-2024 All rights reserved.
 ---
+
+## [Release 2.1.0](https://github.com/) (2024-04-19)
+
+### Новые возможности
+
+- Добавлена возможность настройки длительности работы SQL-сенсора ([#FDEI-11](https://github.com/))
+
+### Прочее
+
+- Добавлено название отчета в комментарий к отчету по умолчанию
+
+
+## [HotFix 2.0.1](https://github.com/) (2024-04-12)
+
+### Исправления
+
+- Исправлено поведение, при котором в отчете отображалось "Нет данных" при значении равному 0
+
+
+## [Release 2.0.0](https://github.com/) (2024-04-06)
+
+### **Значительные изменения**
+
+- **Настройка отчетов с помощью конфиг-файла ([#FDEI-7](https://github.com/))**
+- **DAG'и разделены на продукты по шаблону daily_reporting_{имя продукта} ([#FDEI-8](https://github.com/))**
+
+### Новые возможности
+
+- Добавлена возможность выбора конкретных аналитических срезов для каждой метрики независимо ([#FDEI-11](https://github.com/))
