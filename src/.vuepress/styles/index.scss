@@ -1,0 +1,23 @@
+// place your custom styles here
+#main-title {
+  background: linear-gradient(120deg, var(--theme-color-light), var(--theme-color) 75%,);
+  background-clip: text;
+}
+
+.vp-hero-info {
+  padding-top: 4.5rem;
+  padding-bottom: 4.5rem;
+}
+
+.vp-feature-wrapper {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.vp-feature-bg+.vp-feature {
+  color: #FAFAFA
+}
+
+.vp-navbar .vp-nav-item>.nav-link::after {
+    background: #096dd9;
+}

@@ -1,0 +1,36 @@
+---
+author: David Khoperiya
+title: Overview
+date: 2024-04-18
+editLink: false
+pageview: false
+
+copyright: false
+footer: Ozon.FinTech © 2024-2024 All rights reserved.
+---
+
+## Описание решения
+
+Daily Reporting 2.0 - вторая версия компоненты для Apache Airflow, 
+предназначенная для автоматизации формирования и поставки ежедневных отчетов 
+на основании ключевых метрик в каналы MatterMost. 
+
+Относится к критическим компонентам и находится под постоянным контролем дежурного FDE.
+
+**Дата последнего изменения:** 16.04.2024
+
+**Актуальная версия:** 2.0.0
+
+**Полезные ссылки:** [Gitlab]() | [Airflow]()
+
+О**тветственный со стороны FDE:** [Chirgin Maksim Aleksandrovich]()
+
+## FAQ
+
+::: details Я создал конфиг-словарь для своего продукта, но DAG не появился в Airflow UI, почему?
+
+Для того, чтобы ваш DAG появился в Airflow UI необходимо активировать конфиг-словарь, 
+указав его название в списке `active_daily_reports`, расположенном в файле [daily_reporting_dict.py]().
+
+:::
+
