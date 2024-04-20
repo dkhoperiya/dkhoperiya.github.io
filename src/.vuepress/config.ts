@@ -2,14 +2,18 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
+
+  // App base url
   base: "/",
 
-  lang: "ru-RU",
+  // App title
   title: "FDEI Docs",
-  description: "A docs demo for vuepress-theme-hope",
 
-  theme,
+  // App language
+  lang: "ru-RU",
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+
+  // App theme
+  theme:theme,
+
 });

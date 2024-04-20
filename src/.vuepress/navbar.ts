@@ -1,7 +1,11 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
+  {
+        text: "Главная",
+        icon: "home",
+        link: "/",
+  },
   {
         text: "Компоненты",
         icon: "box",
@@ -10,7 +14,12 @@ export default navbar([
   {
         text: "Операторы",
         icon: "gear",
-        link: "/guide/",
+        link: "/operators/",
+  },
+  {
+        text: "Python API",
+        icon: "fa-brands fa-python",
+        link: "/python_api/",
   },
   {
         text: "Демо",

@@ -5,6 +5,9 @@ import { useScriptTag } from "/Users/dkhoperiya/my-docs/node_modules/@vueuse/cor
 import FontIcon from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
 import Badge from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
 import VPCard from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/VPCard.js";
+import PDF from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/PDF.js";
+import ArtPlayer from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/ArtPlayer.js";
+import VidStack from "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/components/VidStack.js";
 
 import "/Users/dkhoperiya/my-docs/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
@@ -13,6 +16,9 @@ export default defineClientConfig({
     if(!hasGlobalComponent("FontIcon")) app.component("FontIcon", FontIcon);
     if(!hasGlobalComponent("Badge")) app.component("Badge", Badge);
     if(!hasGlobalComponent("VPCard")) app.component("VPCard", VPCard);
+    if(!hasGlobalComponent("PDF")) app.component("PDF", PDF);
+    if(!hasGlobalComponent("ArtPlayer")) app.component("ArtPlayer", ArtPlayer);
+    if(!hasGlobalComponent("VidStack")) app.component("VidStack", VidStack);
     
   },
   setup: () => {

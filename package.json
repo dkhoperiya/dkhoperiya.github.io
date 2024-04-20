@@ -12,8 +12,13 @@
   },
   "devDependencies": {
     "@vuepress/bundler-webpack": "2.0.0-rc.9",
+    "artplayer": "^5.1.1",
+    "dashjs": "^4.7.4",
+    "hls.js": "^1.5.8",
+    "mpegts.js": "^1.7.3",
     "reveal.js": "^5.1.0",
     "sass-loader": "^14.1.0",
+    "vidstack": "^1.11.18",
     "vue": "^3.4.21",
     "vuepress": "2.0.0-rc.9",
     "vuepress-theme-hope": "2.0.0-rc.36"

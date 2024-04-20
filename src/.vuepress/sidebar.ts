@@ -4,7 +4,8 @@ export default sidebar({
     "/components/": [
         {
             text: "Компоненты",
-            link: "",
+            link: "/components/",
+            icon: "box",
             collapsible: false,
             children: [
                 {
@@ -13,11 +14,10 @@ export default sidebar({
                     prefix: "daily_reporting/",
                     collapsible: true,
                     children: [
-                        "overview",
-                        "quick_start",
-                        "user_guide",
-                        "python_api",
-                        "change_log"
+                        "overview/",
+                        "quick_start/",
+                        "user_guide/",
+                        "changelog/"
                     ],
                 },
                 {
@@ -29,7 +29,6 @@ export default sidebar({
                         "overview",
                         "quick_start",
                         "user_guide",
-                        "python_api",
                         "change_log"
                     ],
                 },
@@ -42,7 +41,6 @@ export default sidebar({
                         "overview",
                         "quick_start",
                         "user_guide",
-                        "python_api",
                         "change_log"
                     ],
                 },
@@ -55,7 +53,6 @@ export default sidebar({
                         "overview",
                         "quick_start",
                         "user_guide",
-                        "python_api",
                         "change_log"
                     ],
                 },

@@ -9,3 +9,15 @@ pageview: false
 copyright: false
 footer: Ozon.FinTech © 2024-2024 All rights reserved.
 ---
+
+## Структура
+
+#### 1. [Overview](overview/)
+
+#### 2. [Quick Start](quick_start/)
+
+#### 3. [User Guide](user_guide/)
+
+#### 4. [Python API](python_api/)
+
+#### 5. [Changelog](changelog/)

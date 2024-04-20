@@ -48,9 +48,6 @@ highlights:
     image: /assets/image/ozi-operators.svg
     color: white
     bgImage: /assets/image/Dark_03.png
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
     features:
       - title: VerticaOperator
         details: Выполнение запросов в Vertica
