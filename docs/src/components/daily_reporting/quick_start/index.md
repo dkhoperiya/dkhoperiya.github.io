@@ -18,7 +18,7 @@ layout: doc
 Для внесения изменений в конфигурация отчетов Daily Reporting необходимо обязательно
 создать новую ветку с типом `Hotfix`:
 
-```commandline
+```bash
 git checkout master
 git pull
 git checkout -b hotfix/FDEI-0
@@ -35,17 +35,17 @@ super_credit_reports = {
     "product_name": "super_credit", 
     "owner": "ivivanov",          
     "start_date": "2024-04-16",    
-    "reports": [
+    "reports": [ # [!code warning]
         {
             "report_name": "Super Credit Metrics",
             "channel_name": "super_credit_mm_channel",
-            "metrics": [
+            "metrics": [ # [!code warning]
     	        {
                     "metric_name": "Количество богатых людей",
                     "product_id": 999,
                     "query": {
                         "column_name": "rich_people_cnt",
-                        "table_name": "fintech_mart_team.cdm_super_credit_table",
+                        "table_name": "fintech_mart_team.cdm_table",
                     },
                     "appearance": {
                     "priority": 0,
@@ -78,7 +78,7 @@ active_daily_reports = [
  - отправить изменения в GitLab (`push`)
  - создать и выполнить запрос на слияние (`merge`)
 
-```commandline
+```bash
 git commit .
 git push origin hotfix/FDEI-0
 ```
@@ -117,7 +117,7 @@ git push origin hotfix/FDEI-0
     caption="Не забудьте снять DAG с паузы"
 />
 
-> [!info]
+> [!tip]
 > Хоть мы и не указывали комментарий к отчету, он сгенерировался автоматически, а сам отчет без указания конкретных аналитических срезов использует все доступные срезы по умолчанию.
 
 # Что дальше?

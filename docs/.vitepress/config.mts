@@ -10,6 +10,8 @@ export default defineConfig({
 
   ignoreDeadLinks: true,
 
+  lastUpdated: true,
+
   base: '/',
 
   head: [
@@ -22,9 +24,30 @@ export default defineConfig({
       ]
   ],
 
+  markdown: {
+    lineNumbers: true
+  },
+
   themeConfig: {
 
+    outline: [2, 3],
+
     logo: '/assets/logo/logo-128.svg',
+
+    footer: {
+      message: 'FDEI Docs.',
+      copyright: 'Copyright © 2024-2024 Ozon.Fintech'
+    },
+
+    editLink: {
+      pattern: ({filePath}) => {
+        if (filePath.startsWith('components/')) {
+          return `https://github.com/acme/monorepo/edit/main/${filePath}`
+        } else {
+          return `https://github.com/acme/monorepo/edit/main/docs/${filePath}`
+        }
+      }
+    },
 
     nav: [
       { text: 'Главная', link: '/' },
@@ -130,7 +153,127 @@ export default defineConfig({
             }
           ]
         },
-      ]
+      ],
+      "/operators/": [
+        {
+          text: 'Операторы',
+          link: '/operators/',
+          items: [
+            {
+              text: "Vertica",
+              collapsed: true,
+              items: [
+                {
+                  text: 'VerticaOperator',
+                  link: '/components/vertica/vertica_operator/'
+                },
+                {
+                  text: 'VerticaToClickHouseOperator',
+                  link: '/components/vertica/vertica_to_clickhouse_operator/'
+                },
+                {
+                  text: 'VerticaToS3Operator',
+                  link: '/components/vertica/vertica_to_s3_operator/'
+                },
+              ]
+            },
+            {
+              text: "ClickHouse",
+              collapsed: true,
+              items: [
+                {
+                  text: 'ClickHouseOperator',
+                  link: '/components/clickhouse/clickhouse_operator/'
+                },
+                {
+                  text: 'ClickHouseToVerticaOperator',
+                  link: '/components/clickhouse/clickhouse_to_vertica_operator/'
+                },
+                {
+                  text: 'ClickHouseToS3Operator',
+                  link: '/components/clickhouse/clickhouse_to_s3_operator/'
+                },
+              ]
+            },
+            {
+              text: "S3",
+              collapsed: true,
+              items: [
+                {
+                  text: 'S3ToVerticaOperator',
+                  link: '/components/s3/s3_to_vertica_operator/'
+                },
+                {
+                  text: 'S3ToClickHouseOperator',
+                  link: '/components/s3/s3_to_clickhouse_operator/'
+                },
+                {
+                  text: 'S3ToPostgreOperator',
+                  link: '/components/s3/s3_to_postgre_operator/'
+                },
+              ]
+            },
+            {
+              text: "PostgreSQL",
+              collapsed: true,
+              items: [
+                {
+                  text: 'PostgreOperator',
+                  link: '/components/postgresql/postgre_operator/'
+                },
+                {
+                  text: 'PostgreToVerticaOperator',
+                  link: '/components/postgresql/postgre_to_vertica_operator/'
+                },
+                {
+                  text: 'PostgreToClickHouseOperator',
+                  link: '/components/postgresql/postgre_to_clickhouse_operator/'
+                },
+                {
+                  text: 'PostgreToS3Operator',
+                  link: '/components/postgresql/postgre_to_s3_operator/'
+                },
+              ]
+            }
+          ]
+        },
+      ],
+      "/python_api/daily_reporting/": [
+        {
+          text: 'Daily Reporting API',
+          link: '/python_api/daily_reporting/',
+          items: [
+            {
+              text: "Классы",
+              collapsed: true,
+              items: [
+                {
+                  text: 'Report',
+                  link: '/python_api/daily_reporting/classes/report/'
+                },
+                {
+                  text: 'Metric',
+                  link: '/python_api/daily_reporting/classes/metric'
+                },
+                {
+                  text: 'ReportTableImage',
+                  link: '/python_api/daily_reporting/classes/report_table_image'
+                },
+              ]
+            },
+            {
+              text: "Функции",
+              collapsed: true,
+              items: [
+                {
+                  text: 'send_report_func',
+                  link: '/python_api/daily_reporting/functions/send_report_func/'
+                },
+              ]
+            },
+          ]
+        },
+      ],
     },
 
     socialLinks: [

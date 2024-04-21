@@ -1,6 +1,9 @@
 ---
 title: Overview
 layout: doc
+lastUpdated: true
+editLink: true
+prev: false
 ---
 
 # {{ $frontmatter.title }}

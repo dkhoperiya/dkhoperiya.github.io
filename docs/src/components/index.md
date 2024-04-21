@@ -1,6 +1,7 @@
 ---
 title: Компонентные решения
 layout: doc
+next: false
 ---
 
 # {{ $frontmatter.title }}

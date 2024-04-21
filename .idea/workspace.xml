@@ -4,62 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/chunk-O4XWQMLZ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/chunk-O4XWQMLZ.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress-plugin-image-viewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress-plugin-image-viewer.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vueuse_core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vue.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.node" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/constants.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/defaults.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/handlers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/others.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/render.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/utilities.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/viewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/types/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/vImageViewer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/package.json" afterDir="false" />
+    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="22">
+      <change afterPath="$PROJECT_DIR$/docs/src/components/cdm_dds/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/cdm_dds/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/cdm_dds/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/cdm_dds/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/event_log/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/event_log/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/event_log/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/event_log/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/progress_goal/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/progress_goal/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/progress_goal/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/components/progress_goal/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/cdm_dds/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/cdm_dds/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/cdm_dds/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/cdm_dds/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/cdm_dds/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/daily_reporting/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/daily_reporting/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/daily_reporting/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/daily_reporting/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/daily_reporting/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/event_log/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/event_log/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/event_log/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/event_log/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/event_log/user_guide/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/progress_goal/changelog/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/progress_goal/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/progress_goal/overview/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/progress_goal/quick_start/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/src/python_api/progress_goal/user_guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.mts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/api-examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/changelog/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/changelog/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/overview/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/overview/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/daily_reporting_quick_start_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/daily_reporting_quick_start_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/fintech_alert_check.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/fintech_alert_check.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/fintech_alert_check.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/user_guide/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/user_guide/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/markdown-examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/operators/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/operators/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/python_api/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/python_api/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +77,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dkhoperiya/my-docs/docs/src/public/assets/image",
+    "last_opened_file_path": "/Users/dkhoperiya/my-docs/docs/src/python_api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,11 +92,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/src/python_api" />
+      <recent name="$PROJECT_DIR$/docs/src/components/progress_goal" />
+      <recent name="$PROJECT_DIR$/docs/src/components/event_log" />
+      <recent name="$PROJECT_DIR$/docs/src/components/cdm_dds/quick_start" />
       <recent name="$PROJECT_DIR$/docs/src/public/assets/image" />
-      <recent name="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start" />
-      <recent name="$PROJECT_DIR$/docs/.vitepress/theme" />
-      <recent name="$PROJECT_DIR$/docs/src" />
-      <recent name="$PROJECT_DIR$/node_modules" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image" />
@@ -170,7 +162,7 @@
       <updated>1713445117133</updated>
       <workItem from="1713445118212" duration="48043000" />
       <workItem from="1713550424287" duration="27970000" />
-      <workItem from="1713651105769" duration="8460000" />
+      <workItem from="1713651105769" duration="13922000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <option name="closed" value="true" />
@@ -332,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713707249077</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="22">
+      <option name="closed" value="true" />
+      <created>1713707373441</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1713707373441</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +358,7 @@
     <MESSAGE value="19" />
     <MESSAGE value="20" />
     <MESSAGE value="21" />
-    <option name="LAST_COMMIT_MESSAGE" value="21" />
+    <MESSAGE value="22" />
+    <option name="LAST_COMMIT_MESSAGE" value="22" />
   </component>
 </project>

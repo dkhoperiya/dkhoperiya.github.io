@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "FDEI Docs"
-  text: "Документация"
+  text: Docs & more
   tagline: Единая точка входя для описания инженерных решений
   image:
     src: /assets/image/ozi-doc.svg
