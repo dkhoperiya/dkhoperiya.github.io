@@ -8,6 +8,8 @@ export default defineConfig({
 
   srcDir: 'src',
 
+  ignoreDeadLinks: true,
+
   base: '/',
 
   head: [

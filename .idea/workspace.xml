@@ -4,37 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="19">
-      <change afterPath="$PROJECT_DIR$/docs/.vitepress/theme/components/MDImage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/cdm_dds/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/changelog/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/overview/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/daily_reporting_quick_start_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/daily_reporting_quick_start_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image/fintech_alert_check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/user_guide/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/event_log/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/components/progress_goal/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/demo/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/operators/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/public/assets/image/fintech_alert_check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/public/assets/image/ozi-doc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/public/assets/logo/logo-128.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/src/python_api/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="20">
       <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.mts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/theme/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/theme/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/api-examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/api-examples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/markdown-examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/markdown-examples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +116,7 @@
       <updated>1713445117133</updated>
       <workItem from="1713445118212" duration="48043000" />
       <workItem from="1713550424287" duration="27970000" />
-      <workItem from="1713651105769" duration="8258000" />
+      <workItem from="1713651105769" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <option name="closed" value="true" />
@@ -291,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713705813127</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20">
+      <option name="closed" value="true" />
+      <created>1713707165672</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713707165672</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +294,7 @@
     <MESSAGE value="17" />
     <MESSAGE value="18" />
     <MESSAGE value="19" />
-    <option name="LAST_COMMIT_MESSAGE" value="19" />
+    <MESSAGE value="20" />
+    <option name="LAST_COMMIT_MESSAGE" value="20" />
   </component>
 </project>
