@@ -91,19 +91,19 @@ git push origin hotfix/FDEI-0
 выбранный канал MatterMost необходимо добавить бота `fintech_alert` в ваш канал.
 
 <MDImage 
-    src="./image/fintech_alert_check.png" 
+    src="/assets/image/fintech_alert_check.png" 
     height=300 
     caption="Бот должен быть участником канала"
 />
 
 ## Запуск DAG'а в Airflow UI
 
-Созданный компонентной Daily Reportin 2.0 DAG будет называться по паттерну `daily_reporting_ + название продукта`, в нашем случае это `daily_reporting_super_credit`.
+Созданный компонентной Daily Reporting 2.0 DAG будет называться по паттерну `daily_reporting_ + название продукта`, в нашем случае это `daily_reporting_super_credit`.
 
 На это этапе можно запускать DAG и ждать сформированного отчета.
 
 <MDImage 
-    src="./image/daily_reporting_quick_start_2.png" 
+    src="/assets/image/daily_reporting_quick_start_2.png" 
     height=300 
     caption="Не забудьте снять DAG с паузы"
 />
@@ -113,7 +113,7 @@ git push origin hotfix/FDEI-0
 готовый отчет за конкретную дату с настройками по-умолчанию.
 
 <MDImage 
-    src="./image/daily_reporting_quick_start_3.png"  
+    src="/assets/image/daily_reporting_quick_start_3.png"  
     caption="Не забудьте снять DAG с паузы"
 />
 

@@ -4,8 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="20">
-      <change beforePath="$PROJECT_DIR$/docs/.vitepress/config.mts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vitepress/config.mts" afterDir="false" />
+    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="21">
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/_metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/chunk-O4XWQMLZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/chunk-O4XWQMLZ.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress-plugin-image-viewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress-plugin-image-viewer.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vueuse_core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vitepress/cache/deps/vue.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/fsevents.node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/fsevents/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/defaults.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/handlers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/others.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/utilities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/src/js/viewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/viewerjs/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/vImageViewer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/daily_reporting_quick_start_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src/public/assets/image/fintech_alert_check.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/src/public/assets/image/fintech_alert_check.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +85,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dkhoperiya/my-docs/docs/src/components/daily_reporting/quick_start",
+    "last_opened_file_path": "/Users/dkhoperiya/my-docs/docs/src/public/assets/image",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,11 +100,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/src/public/assets/image" />
       <recent name="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start" />
       <recent name="$PROJECT_DIR$/docs/.vitepress/theme" />
       <recent name="$PROJECT_DIR$/docs/src" />
       <recent name="$PROJECT_DIR$/node_modules" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/src/components/daily_reporting/quick_start/image" />
@@ -116,7 +170,7 @@
       <updated>1713445117133</updated>
       <workItem from="1713445118212" duration="48043000" />
       <workItem from="1713550424287" duration="27970000" />
-      <workItem from="1713651105769" duration="8330000" />
+      <workItem from="1713651105769" duration="8460000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <option name="closed" value="true" />
@@ -270,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713707165672</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="21">
+      <option name="closed" value="true" />
+      <created>1713707249077</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713707249077</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +357,7 @@
     <MESSAGE value="18" />
     <MESSAGE value="19" />
     <MESSAGE value="20" />
-    <option name="LAST_COMMIT_MESSAGE" value="20" />
+    <MESSAGE value="21" />
+    <option name="LAST_COMMIT_MESSAGE" value="21" />
   </component>
 </project>
