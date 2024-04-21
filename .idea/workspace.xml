@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="17">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fdei_docs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/chunk-R3FIV2J6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/chunk-R3FIV2J6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress-plugin-image-viewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress-plugin-image-viewer.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress___@vue_devtools-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress___@vue_devtools-api.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress___@vueuse_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vitepress___@vueuse_core.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/cache/deps/vue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/config.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/components/MDImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vitepress/theme/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-attrs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-figure/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@mdit/plugin-img-size/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/linkify-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/linkify-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/linkify-it/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/linkify-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/dist/index.cjs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/dist/markdown-it.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/dist/markdown-it.min.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/common/entities.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/common/html_blocks.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/common/html_re.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/common/utils.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/helpers/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/helpers/parse_link_destination.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/helpers/parse_link_label.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/helpers/parse_link_title.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/parser_block.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/parser_core.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/parser_inline.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/renderer.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/ruler.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/rules_block/state_block.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/rules_core/state_core.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/rules_inline/state_inline.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/lib/token.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/markdown-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/decode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/encode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/format.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@types/mdurl/parse.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/dist/viewer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/css/viewer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/images/icons.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/events.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/handlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/methods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/others.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/render.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/utilities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/src/js/viewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/viewerjs/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/vImageViewer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/lib/viewer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vitepress-plugin-image-viewer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api-examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/cdm_dds/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/daily_reporting/changelog/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/daily_reporting/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/daily_reporting/overview/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/daily_reporting/quick_start/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/daily_reporting/user_guide/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/event_log/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/progress_goal/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/markdown-examples.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operators/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/image/daily_reporting_quick_start_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/image/daily_reporting_quick_start_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/image/fintech_alert_check.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/image/ozi-doc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/assets/logo/logo-128.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/python_api/index.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fH5MgqXMih0CMrZjDkYtNhbIA1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/dkhoperiya/my-docs/node_modules",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.docs:build.executor": "Run",
+    "npm.docs:clean-dev.executor": "Run",
+    "npm.docs:dev.executor": "Run",
+    "ts.external.directory.path": "/Applications/PyCharm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/node_modules" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/components/event_log" />
+      <recent name="$PROJECT_DIR$/src/components/progres_goal" />
+      <recent name="$PROJECT_DIR$/src/components/cdm_dds" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/.vuepress/public/assets/video" />
+      <recent name="$PROJECT_DIR$/src/components/daily_reporting/user_guide" />
+      <recent name="$PROJECT_DIR$/src/components/daily_reporting/changelog" />
+      <recent name="$PROJECT_DIR$/src/components/daily_reporting/python_api" />
+      <recent name="$PROJECT_DIR$/src/components/daily_reporting/quick_start" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.docs:build">
+    <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:clean-dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:clean-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.docs:dev" />
+        <item itemvalue="npm.docs:clean-dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="314aabaa-1536-48e8-9b4e-ccbd29960edb" name="Changes" comment="" />
+      <created>1713445117133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713445117133</updated>
+      <workItem from="1713445118212" duration="48043000" />
+      <workItem from="1713550424287" duration="27970000" />
+      <workItem from="1713651105769" duration="6590000" />
+    </task>
+    <task id="LOCAL-00001" summary="second">
+      <option name="closed" value="true" />
+      <created>1713534892741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713534892741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="third">
+      <option name="closed" value="true" />
+      <created>1713535140892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713535140892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4">
+      <option name="closed" value="true" />
+      <created>1713536766290</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713536766290</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5">
+      <option name="closed" value="true" />
+      <created>1713537570941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713537570942</updated>
+    </task>
+    <task id="LOCAL-00005" summary="6">
+      <option name="closed" value="true" />
+      <created>1713538031187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538031187</updated>
+    </task>
+    <task id="LOCAL-00006" summary="7">
+      <option name="closed" value="true" />
+      <created>1713538814056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538814056</updated>
+    </task>
+    <task id="LOCAL-00007" summary="8">
+      <option name="closed" value="true" />
+      <created>1713539206275</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713539206275</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9">
+      <option name="closed" value="true" />
+      <created>1713550998490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713550998490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="10">
+      <option name="closed" value="true" />
+      <created>1713563257641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713563257641</updated>
+    </task>
+    <task id="LOCAL-00010" summary="11">
+      <option name="closed" value="true" />
+      <created>1713641917020</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713641917020</updated>
+    </task>
+    <task id="LOCAL-00011" summary="12">
+      <option name="closed" value="true" />
+      <created>1713704258687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704258687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="12">
+      <option name="closed" value="true" />
+      <created>1713704263707</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704263707</updated>
+    </task>
+    <task id="LOCAL-00013" summary="14">
+      <option name="closed" value="true" />
+      <created>1713704420622</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704420622</updated>
+    </task>
+    <task id="LOCAL-00014" summary="15">
+      <option name="closed" value="true" />
+      <created>1713704536179</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704536179</updated>
+    </task>
+    <task id="LOCAL-00015" summary="16">
+      <option name="closed" value="true" />
+      <created>1713704928457</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1713704928457</updated>
+    </task>
+    <task id="LOCAL-00016" summary="17">
+      <option name="closed" value="true" />
+      <created>1713705044553</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713705044553</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second" />
+    <MESSAGE value="third" />
+    <MESSAGE value="4" />
+    <MESSAGE value="5" />
+    <MESSAGE value="6" />
+    <MESSAGE value="7" />
+    <MESSAGE value="8" />
+    <MESSAGE value="9" />
+    <MESSAGE value="10" />
+    <MESSAGE value="11" />
+    <MESSAGE value="12" />
+    <MESSAGE value="14" />
+    <MESSAGE value="15" />
+    <MESSAGE value="16" />
+    <MESSAGE value="17" />
+    <option name="LAST_COMMIT_MESSAGE" value="17" />
+  </component>
+</project>
